@@ -32,7 +32,7 @@ while (alive):
 ### 🧠 Currently:
 
 * 📚 Learning AI/ML with Python
-* ✍️ Posting dev & learning stories on [LinkedIn](https://linkedin.com/in/YOURHANDLE)
+* ✍️ Posting dev & learning stories on [LinkedIn]([https://linkedin.com/in/YOURHANDLE](https://www.linkedin.com/in/keshav-sharma-1482b7189/))
 * 💥 Working on Thorough - A blog application
 * 💡 Actively looking for a job in MERN. Open to AI/ML internships.
 * 🌱 First open source PRs coming soon...
