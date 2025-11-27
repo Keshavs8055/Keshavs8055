@@ -41,7 +41,7 @@ while (alive):
 ### 📫 Let’s Connect
 
 * 🖥 [Portfolio](https://keshav-portfolio.vercel.app/)
-* 📩 [keshavs8055@gmail.com](mailto:keshavs.0496@gmail.com)
+* 📩 [keshavs.0496@gmail.com](mailto:keshavs.0496@gmail.com)
 * 🧠 Always open to collabs, contributions, or coffee chats!
 
 ---
